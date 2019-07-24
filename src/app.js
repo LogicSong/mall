@@ -8,7 +8,7 @@ ReactDom.render(
     
     <div>
         <h1>
-        Hello World!
+        Hello, World!
         </h1>
         <i className='fa fa-spinner fa-pulse'></i>
     </div>,
